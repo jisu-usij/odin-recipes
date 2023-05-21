@@ -5,10 +5,23 @@ html {
 }
 
 a {
-  color: white;
+  color: black;
   font-size: 32px;
 }
 
 h1 {
   text-align: center;
+}
+
+ul {
+  width: 400px;
+  margin: 12px auto;
+  background-color: #eb91eb;
+  padding: 32px;
+  color: black;
+  border: #500323 solid;
+}
+
+li {
+  margin-bottom: 16px;
 }

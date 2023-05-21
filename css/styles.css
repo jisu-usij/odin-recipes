@@ -5,8 +5,11 @@ html {
 }
 
 a {
-  color: black;
+  color: white;
   font-size: 32px;
+  background-color:#500323;
+  display: inline-block;
+  padding: 8px;
 }
 
 h1 {
@@ -18,7 +21,7 @@ ul {
   margin: 12px auto;
   background-color: #eb91eb;
   padding: 32px;
-  color: black;
+  padding-bottom: 16px;
   border: #500323 solid;
 }
 
